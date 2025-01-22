@@ -1,0 +1,21 @@
+/* Global styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f7f9fc; /* Light gray background for a clean look */
+  margin: 0;
+  padding: 0;
+  color: #333; /* Dark gray text for readability */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600; /* Make headers bold and prominent */
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}
